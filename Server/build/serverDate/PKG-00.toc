@@ -1,0 +1,48 @@
+('C:\\Users\\Anwender\\Desktop\\307 '
+ 'submission\\Server\\build\\serverDate\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Anwender\\Desktop\\307 '
+   'submission\\Server\\build\\serverDate\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Anwender\\Desktop\\307 '
+   'submission\\Server\\build\\serverDate\\localpycos\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'C:\\Users\\Anwender\\Desktop\\307 '
+   'submission\\Server\\build\\serverDate\\localpycos\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'C:\\Users\\Anwender\\Desktop\\307 '
+   'submission\\Server\\build\\serverDate\\localpycos\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'C:\\Users\\Anwender\\Desktop\\307 '
+   'submission\\Server\\build\\serverDate\\localpycos\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\program files '
+   '(x86)\\python38-32\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Program Files '
+   '(x86)\\Python38-32\\Lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('serverDate',
+   'C:\\Users\\Anwender\\Desktop\\307 submission\\Server\\serverDate.py',
+   'PYSOURCE'),
+  ('serverDate.exe.manifest',
+   'C:\\Users\\Anwender\\Desktop\\307 '
+   'submission\\Server\\build\\serverDate\\serverDate.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False,
+ [])
